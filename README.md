@@ -4,7 +4,7 @@
  <h3> 🌿 I'm an aspiring business/data analyst who's enthusiastic about leveraging technology to create a positive impact on society.</h3> 
  
 - 💼 Business Analytics recent graduate at UNSW, based in Sydney.
-- 💻 My interests lie in the intersection of Business and Technology, and I'm passionate about using data to make a positive impact on society.
+- 💻 My interests lie in the intersection of Business and Technology, and I'm fascinated with the ability to translate large datasets to uncover insights and make data-driven decisions to make a positive impact on society.
 - 🐱‍🏍 I have utilized SQL, Excel, and PowerBI to perform data cleaning and organization, conduct data analysis, and generate informative visualizations to effectively communicate insights with relevant stakeholders.
 - 💚 Apart from technology, I'm also interested in sustainability and social impact. Over the past 3+ years, I've volunteered at not-for-profit organizations where I honed my interpersonal skills, including communication, teamwork, leadership, and problem-solving.
 - :mailbox: How to reach me: thienhuongvn20@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/thienhuong2011/))
