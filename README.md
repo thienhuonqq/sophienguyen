@@ -1,15 +1,4 @@
 # Hi there! I’m Sophie Nguyen 🙋‍♀️ 
-<!-- credit goes to https://www.sitepoint.com/github-profile-readme/ for an easy tutorial -->
-<div id="badges">
-  <a href="https://www.linkedin.com/in/thienhuong2011/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-<!--  <div id="header" align="textStart">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="250"/>
-</div> -->
-
- ---
  
  ### :woman_technologist: About Me :
  <h3> 🌿 I'm an aspiring business/data analyst who's enthusiastic about leveraging technology to create a positive impact on society.</h3> 
