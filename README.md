@@ -3,7 +3,6 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/thienhuong2011/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://komarev.com/ghpvc/?username=annanana164&style=plastic&color=blueviolet" alt=""/>
     </a>
   </div>
 <!--  <div id="header" align="textStart">
@@ -26,18 +25,14 @@
  <b><h3>✅ Skills include</b></h3> Business Analytics | Product Analysis | Business Development | Marketing | Social Media Growth | Content Creation | Graphic Design | Community Management. 
 ### <h3>:hammer_and_wrench:Languages and Tools</h3>
 <div>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/rstudio" title="Rstudio" alt="Rstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?short_path=e0e096a" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="salesforce" **alt="salesforce" width="40" height="40"/>&nbsp;                                                                                                                                           
+   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="salesforce" **alt="salesforce" width="40" height="40"/>&nbsp;                                                                                       
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>&nbsp;                                                                                                                                                
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>&nbsp;                                                                                                                                                
    
-  ---
-
-### :fire: My Stats :
-                                                                                                                                                   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annanana164&theme=midnight-purple&border_radius=5&mode=weekly)](https://git.io/streak-stats)                                                                                                                                                  
+  ---                                                                                                                             
